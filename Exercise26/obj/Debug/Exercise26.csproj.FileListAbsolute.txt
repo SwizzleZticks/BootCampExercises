@@ -1,0 +1,7 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\Exercises\Exercise26\bin\Debug\Exercise26.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\Exercises\Exercise26\bin\Debug\Exercise26.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\Exercises\Exercise26\bin\Debug\Exercise26.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\Exercises\Exercise26\obj\Debug\Exercise26.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Exercises\Exercise26\obj\Debug\Exercise26.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Exercises\Exercise26\obj\Debug\Exercise26.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\Exercises\Exercise26\obj\Debug\Exercise26.pdb
