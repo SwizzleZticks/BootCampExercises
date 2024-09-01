@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F67CA977-687C-4292-9E23-6F4D7804722C}|Exercise41\\Exercise41.csproj|c:\\users\\josh\\onedrive\\desktop\\workspace\\exercises\\exercise41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67CA977-687C-4292-9E23-6F4D7804722C}|Exercise41\\Exercise41.csproj|solutionrelative:exercise41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86EF574D-64B0-4FF3-AF04-CA0E9BA5EBB9}|Exercise46\\Exercise46.csproj|c:\\users\\josh\\onedrive\\desktop\\workspace\\exercises\\exercise46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF574D-64B0-4FF3-AF04-CA0E9BA5EBB9}|Exercise46\\Exercise46.csproj|solutionrelative:exercise46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF574D-64B0-4FF3-AF04-CA0E9BA5EBB9}|Exercise46\\Exercise46.csproj|c:\\users\\josh\\onedrive\\desktop\\workspace\\exercises\\exercise46\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF574D-64B0-4FF3-AF04-CA0E9BA5EBB9}|Exercise46\\Exercise46.csproj|solutionrelative:exercise46\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +38,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\Exercises\\Exercise46\\Triangle.cs",
+              "RelativeDocumentMoniker": "Exercise46\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\Exercises\\Exercise46\\Triangle.cs",
+              "RelativeToolTip": "Exercise46\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:12:34.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\Exercises\\Exercise41\\Program.cs",
-              "RelativeDocumentMoniker": "Exercise41\\Program.cs",
-              "ToolTip": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\Exercises\\Exercise41\\Program.cs*",
-              "RelativeToolTip": "Exercise41\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwB0AAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\Exercises\\Exercise46\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise46\\Program.cs",
+              "ToolTip": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\Exercises\\Exercise46\\Program.cs",
+              "RelativeToolTip": "Exercise46\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T15:03:02.17Z",
+              "WhenOpened": "2024-09-01T16:12:10.263Z",
               "EditorCaption": ""
             }
           ]
