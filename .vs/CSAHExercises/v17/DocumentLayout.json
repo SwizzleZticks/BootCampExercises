@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8FF216-F0ED-4BB5-87E2-C88204393940}|Exercise51\\Exercise51.csproj|c:\\users\\jddic\\onedrive\\desktop\\workspace\\bootcampexercises\\exercise51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8FF216-F0ED-4BB5-87E2-C88204393940}|Exercise51\\Exercise51.csproj|solutionrelative:exercise51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise51\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise51\\Program.cs",
+              "ToolTip": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise51\\Program.cs",
+              "RelativeToolTip": "Exercise51\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:45:30.658Z",
+              "EditorCaption": ""
             }
           ]
         }
