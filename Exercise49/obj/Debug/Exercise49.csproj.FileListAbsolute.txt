@@ -1,0 +1,7 @@
+C:\Users\jddic\OneDrive\Desktop\workspace\BootCampExercises\Exercise49\bin\Debug\Exercise49.exe.config
+C:\Users\jddic\OneDrive\Desktop\workspace\BootCampExercises\Exercise49\bin\Debug\Exercise49.exe
+C:\Users\jddic\OneDrive\Desktop\workspace\BootCampExercises\Exercise49\bin\Debug\Exercise49.pdb
+C:\Users\jddic\OneDrive\Desktop\workspace\BootCampExercises\Exercise49\obj\Debug\Exercise49.csproj.AssemblyReference.cache
+C:\Users\jddic\OneDrive\Desktop\workspace\BootCampExercises\Exercise49\obj\Debug\Exercise49.csproj.CoreCompileInputs.cache
+C:\Users\jddic\OneDrive\Desktop\workspace\BootCampExercises\Exercise49\obj\Debug\Exercise49.exe
+C:\Users\jddic\OneDrive\Desktop\workspace\BootCampExercises\Exercise49\obj\Debug\Exercise49.pdb
