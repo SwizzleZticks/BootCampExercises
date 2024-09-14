@@ -55,9 +55,9 @@ namespace Exercise52
                 if (userInput == "q")
                 {
                     //average area of all objects
-                    Console.WriteLine($"Average Area: {Square.GetArea(sqList) + Triangle.CalculateArea(triList) + Circle.GetArea(circList) / sqList.Count + triList.Count + circList.Count }");
+                    Console.WriteLine($"Average Area: {(Square.GetArea(sqList) + Triangle.CalculateArea(triList) + Circle.GetArea(circList)) / (sqList.Count + triList.Count + circList.Count) }");
                     //average perimeter of all objects
-                    Console.WriteLine($"Average Perimeter: {Square.GetPerimeter(sqList) + Triangle.GetPerimeter(triList) + Circle.GetPerimeter(circList) / sqList.Count + triList.Count + circList.Count}");
+                    Console.WriteLine($"Average Perimeter: {(Square.GetPerimeter(sqList) + Triangle.GetPerimeter(triList) + Circle.GetPerimeter(circList)) / (sqList.Count + triList.Count + circList.Count)}");
                     isActiveLoop = GetUserChoice("Would you like to continue (y/n)? ");
                 }
                 
