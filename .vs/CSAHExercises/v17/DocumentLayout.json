@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE60A2ED-9C7E-4F0D-BE52-0540552BDCC1}|Exercise54\\Exercise54.csproj|c:\\users\\jddic\\onedrive\\desktop\\workspace\\bootcampexercises\\exercise54\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE60A2ED-9C7E-4F0D-BE52-0540552BDCC1}|Exercise54\\Exercise54.csproj|solutionrelative:exercise54\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7181FE2C-B6C0-4715-9012-7AD21C10D093}|Exercise56\\Exercise56.csproj|c:\\users\\jddic\\onedrive\\desktop\\workspace\\bootcampexercises\\exercise56\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7181FE2C-B6C0-4715-9012-7AD21C10D093}|Exercise56\\Exercise56.csproj|solutionrelative:exercise56\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE60A2ED-9C7E-4F0D-BE52-0540552BDCC1}|Exercise54\\Exercise54.csproj|c:\\users\\jddic\\onedrive\\desktop\\workspace\\bootcampexercises\\exercise54\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE60A2ED-9C7E-4F0D-BE52-0540552BDCC1}|Exercise54\\Exercise54.csproj|solutionrelative:exercise54\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7181FE2C-B6C0-4715-9012-7AD21C10D093}|Exercise56\\Exercise56.csproj|c:\\users\\jddic\\onedrive\\desktop\\workspace\\bootcampexercises\\exercise56\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7181FE2C-B6C0-4715-9012-7AD21C10D093}|Exercise56\\Exercise56.csproj|solutionrelative:exercise56\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE60A2ED-9C7E-4F0D-BE52-0540552BDCC1}|Exercise54\\Exercise54.csproj|c:\\users\\jddic\\onedrive\\desktop\\workspace\\bootcampexercises\\exercise54\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE60A2ED-9C7E-4F0D-BE52-0540552BDCC1}|Exercise54\\Exercise54.csproj|solutionrelative:exercise54\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7181FE2C-B6C0-4715-9012-7AD21C10D093}|Exercise56\\Exercise56.csproj|c:\\users\\jddic\\onedrive\\desktop\\workspace\\bootcampexercises\\exercise56\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7181FE2C-B6C0-4715-9012-7AD21C10D093}|Exercise56\\Exercise56.csproj|solutionrelative:exercise56\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise54\\Circle.cs",
-              "RelativeDocumentMoniker": "Exercise54\\Circle.cs",
-              "ToolTip": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise54\\Circle.cs",
-              "RelativeToolTip": "Exercise54\\Circle.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvyMAAAANAAAAAAAAAA==",
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise56\\Person.cs",
+              "RelativeDocumentMoniker": "Exercise56\\Person.cs",
+              "ToolTip": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise56\\Person.cs",
+              "RelativeToolTip": "Exercise56\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T22:06:45.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise54\\Triangle.cs",
-              "RelativeDocumentMoniker": "Exercise54\\Triangle.cs",
-              "ToolTip": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise54\\Triangle.cs",
-              "RelativeToolTip": "Exercise54\\Triangle.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T22:06:41.478Z",
+              "WhenOpened": "2024-09-15T20:19:52.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise54\\Square.cs",
-              "RelativeDocumentMoniker": "Exercise54\\Square.cs",
-              "ToolTip": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise54\\Square.cs",
-              "RelativeToolTip": "Exercise54\\Square.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise56\\Staff.cs",
+              "RelativeDocumentMoniker": "Exercise56\\Staff.cs",
+              "ToolTip": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise56\\Staff.cs",
+              "RelativeToolTip": "Exercise56\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T22:06:35.939Z",
+              "WhenOpened": "2024-09-15T20:18:10.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise56\\Student.cs",
+              "RelativeDocumentMoniker": "Exercise56\\Student.cs",
+              "ToolTip": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\BootCampExercises\\Exercise56\\Student.cs",
+              "RelativeToolTip": "Exercise56\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:16:40.247Z",
               "EditorCaption": ""
             },
             {
